@@ -1,10 +1,3 @@
-# Xcode-themes
-Ciapre Blue Xcode Themes
-
-# Manual Installation
-
-Copy the .xccolortheme file into the following directory:
-
-~/Library/Developer/Xcode/UserData/FontAndColorThemes
-Restart Xcode
-Go to preferences and select Solarized Dark
+Create folder ~/Library/Developer/Xcode/UserData/FontAndColorThemes/ if it is not there.
+Copy Zenburn.dvtcolortheme to the folder.
+Restart Xcode.
